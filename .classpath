@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/webservices-api.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/jmxcore/WtLogR.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/jmxcore/WtLogR"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/CommonCore.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/CommonCore"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/tool/Annotations.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/tool/Annotations"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/MetaSpecCommon.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/MetaSpecCommon"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/Foundation.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/Foundation"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/ie/InfoEngine.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/ie/InfoEngine"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/CommonXml.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/CommonXml"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/DCAInfrastructure.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/DCAInfrastructure"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/jmxcore/WtJmxCore.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/jmxcore/WtJmxCore"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/jmxcore/WtJmxServlet.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/jmxcore/WtJmxServlet"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/Enterprise.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/Enterprise"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/WindchillAdapter.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/WindchillAdapter"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/CoreFoundationDelegates.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/CoreFoundationDelegates"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/wtSecurity.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/wtSecurity"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/CoreClients.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/CoreClients"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/IXLoad.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/IXLoad"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/SearchServer.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/SearchServer"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/LWC.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/wnc/LWC"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/ie/ApplicationSecurity.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://wc-javadoc.ptcnet.ptc.com/javadoc/Windchill_x-20/docs/api/ie/ApplicationSecurity"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/dtdparser.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/json.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/xmlParserAPIs.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/saxon.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/ant.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/servlet.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/jstl.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/poi.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.aop.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.asm.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.aspects.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.beans.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.context.support.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.core.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.expression.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.instrument.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.instrument.tomcat.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.jdbc.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.jms.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.orm.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.oxm.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.test.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.transaction.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.web.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.web.portlet.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.web.servlet.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/org.springframework.web.struts.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/CommonComponents.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/Mvc.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/EnterpriseUI.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/CoreHtmlComp.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/ProductLibrary.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/ant/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/wnc/Boot.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/srclib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:\WT_HOME_12_2/codebase"/>
+	<classpathentry kind="src" path="src_gen">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build"/>
+</classpath>

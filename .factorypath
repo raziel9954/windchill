@@ -1,0 +1,10 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\tool\Annotations.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\tool\AnnotationProcessing.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\install\InstallUtil.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\wnc\CommonCore.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\jmxcore\WtLogR.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\log4j.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\WT_HOME_12_2\srclib\commons-collections.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

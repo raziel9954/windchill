@@ -1,0 +1,7 @@
+
+<!DOCTYPE Configuration SYSTEM "xconf.dtd">
+<Configuration targetFile="codebase/wt.properties">
+
+	<!-- Listener -->
+    <Property name="wt.services.service.9999" overridable="true" value="com.psc.academy.server.listener.ListenerService/com.psc.academy.server.listener.StandardListenerService"/>
+</Configuration>
